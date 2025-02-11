@@ -3,6 +3,10 @@
 ## Descrição
 Este projeto tem como objetivo simular o controle do ângulo de um servomotor padrão utilizando o módulo PWM do microcontrolador RP2040, presente no Raspberry Pi Pico W. A simulação será realizada no ambiente Wokwi, integrado ao VS Code, e o desenvolvimento será feito utilizando a linguagem C com o Pico SDK.
 
+## 📺 Demonstração
+
+- **Execução na Placa BitDogLab:** [Assista no YouTube](https://youtu.be/QZhPXDIq2H0)
+
 ## Requisitos
 Os seguintes componentes serão simulados no Wokwi:
 - **Microcontrolador Raspberry Pi Pico W**
